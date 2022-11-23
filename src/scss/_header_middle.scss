@@ -1,0 +1,93 @@
+
+
+.header-middle {
+    font-family: 'Cormorant Garamond', serif;
+    background-color: rgb(37, 37, 37);
+    max-width: 1500px;
+    margin: 0 auto;
+    display: flex;
+}
+.another-family {
+    font-family: 'Dancing Script', cursive;
+}
+
+.title-search {
+    h1 {
+        font-size: 25px;
+        color: white;
+        font-weight: 100;
+        margin-top: 10px;
+        margin-left: 20px;
+    }
+    input {
+        width: 500px;
+        height: 30px;
+        letter-spacing: 1px;
+        text-indent: 10px;
+        background-image: url('../assets/magnifier_icon.svg');  
+        background-size: 25px; 
+        background-repeat: no-repeat; /*Убираем повтор изображения*/   
+        background-position: 475px; /*Позиционируем*/
+        margin-left: 20px;
+        margin-top: 10px;
+    }
+    input::placeholder {
+        color: rgb(134, 118, 118);
+        font-style: italic;
+    }
+}
+
+.telephone-communication {
+    text-align: center;
+
+    .background-icon {
+        background-color: white;
+        width: 20px;
+        border-radius: 15px;
+        padding: 3px;
+        text-align: center;
+        margin-top: 7px;
+    }
+    li {
+        color: white;
+        list-style: none;
+        font-size: 18px;
+        margin-top: 10px;
+    } 
+   .size-numbers:hover {
+        font-size: 18.5px;
+        cursor: default;
+    }
+}
+
+.shopping {
+    color: white;
+    list-style: none;
+    margin-top: 15px;
+    margin-left: 25px;
+    font-size: 18px;
+}
+
+.cart {
+    list-style: none;
+    background-color: white;
+    text-align: center;
+    width: 80px;
+    border-radius: 50px;
+    padding: 5px;
+    margin-top: 15px;
+    margin-left: 25px;
+    :hover {
+       width: 70.5px;
+    }
+}
+
+.counter {
+    background-color: white;
+    border-radius: 50%;
+    padding: 0px 8px 3px 8px;
+    text-align: center;
+    position: relative;
+    left: 105px;
+    top: -95px;
+}
