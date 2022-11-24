@@ -4,8 +4,8 @@ import '../scss/_header_bottom.scss'
 
 const HeaderBottom = () => {
   return (
-    <div>
-      <ul className='header-bottom'>
+    <div className='header-bottom'>
+      <ul className='main-menu'>
         <li>Палатки</li>
         <li>Спальные мешки и коврики</li>
         <li>Рюкзаки и сумки</li>
