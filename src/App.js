@@ -1,4 +1,5 @@
 import React from 'react';
+import HeaderBottom from './components/HeaderBottom';
 import HeaderMiddle from './components/HeaderMiddle';
 import HeaderTop from './components/HeaderTop';
 
@@ -8,6 +9,7 @@ function App() {
     <div className="wrap">
       <HeaderTop />
       <HeaderMiddle />
+      <HeaderBottom />
     </div>
   );
 }
