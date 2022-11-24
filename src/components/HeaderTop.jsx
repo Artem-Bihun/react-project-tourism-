@@ -1,9 +1,9 @@
-import logoHeart from '../assets/heart_icon.svg';
-import logoPerson from '../assets/person_icon.svg';
-import logoInstagram from '../assets/instagram_icon.svg';
-import logoFacebook from '../assets/facebook_icon.svg';
-import logoTwitter from '../assets/twitter_icon.svg';
-import logoTelegram from '../assets/telegram_icon.svg';
+import logoHeart from '../assets/logo_heart.svg';
+import logoPerson from '../assets/logo_person.svg';
+import logoInstagram from '../assets/logo_instagram.svg';
+import logoFacebook from '../assets/logo_facebook.svg';
+import logoTwitter from '../assets/logo_twitter.svg';
+import logoTelegram from '../assets/logo_telegram.svg';
 
 import '../scss/_header_top.scss';
 
