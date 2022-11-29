@@ -29,14 +29,15 @@
 .social-media {
   display: flex;
   list-style: none;
-  li {
-    padding: 5px;
+  img {
+    height: 25px;
+    padding: 2px;
     margin-top: 10px;
   }
-  :hover {
-    cursor: default;
-    width: 26px;
-  }
+  img:hover {
+    background-color: rgb(198, 196, 196);
+    border-radius: 20%;
+}
 }
 
 .languages {

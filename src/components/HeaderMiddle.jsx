@@ -1,6 +1,6 @@
 import React from 'react';
 
-import imgExpedition from '../assets/img_expedition.jpg';
+import imgExpedition from '../assets/img_expedition.png';
 import logoPhone from '../assets/logo_phone.svg';
 import logoCart from '../assets/logo_cart.svg';
 import '../scss/_header_middle.scss';
@@ -9,9 +9,10 @@ const HeaderMiddle = () => {
   return (
     <div className="header-middle">
       <img
-        width="300px"
+        className='expedition'
+        width="200px"
         src={imgExpedition}
-        alt="img.img-expedition"
+        alt="img-expedition"
         title="img-expedition"></img>
       <div className="title-search">
         <h1 className="another-family">Expedition online shop - camping and travel gear</h1>

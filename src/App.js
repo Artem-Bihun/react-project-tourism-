@@ -3,6 +3,8 @@ import Cards from './components/Cards';
 import HeaderBottom from './components/HeaderBottom';
 import HeaderMiddle from './components/HeaderMiddle';
 import HeaderTop from './components/HeaderTop';
+import Text from './components/Text';
+import Footer from './components/Footer';
 
 
 function App() {
@@ -12,6 +14,8 @@ function App() {
       <HeaderMiddle />
       <HeaderBottom />
       <Cards />
+      <Text />
+      <Footer />
     </div>
   );
 }
