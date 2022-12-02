@@ -2,13 +2,18 @@ import React from 'react';
 
 import '../scss/_header_bottom.scss';
 import downArrow from '../assets/logo_arrow.svg';
+import { Link } from 'react-router-dom';
 
 const HeaderBottom = () => {
   return (
     <div className="header-bottom">
       <ul className="main-menu">
-        <li>Палатки</li>
-        <li>Спальные мешки и коврики</li>
+        <Link to="/tents">
+          <li>Палатки</li>
+        </Link>
+        <Link to="/sleeping-bags">
+          <li>Спальные мешки и коврики</li>
+        </Link>
         <li>Рюкзаки и сумки</li>
         <li>Зонты и дождевики</li>
         <li>Средства для розжига</li>
