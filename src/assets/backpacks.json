@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "imageUrl": "https://th.bing.com/th/id/OIP.gEore_9l_rH59M_o9ey9igHaHa?pid=ImgDet&w=207&h=207&c=7&dpr=1.3",
+        "title": "Сумка Deuter Gigant",
+        "price": 3300,
+        "logoCart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-cart-64.png",
+        "logoHeart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-heart-64.png" 
+    },
+
+    {
+        "id": 1,
+        "imageUrl": "https://th.bing.com/th/id/OIP.rQJrDu1GlCW9tXcu2yrTIgHaHa?pid=ImgDet&w=207&h=207&c=7&dpr=1.3",
+        "title": "Рюкзак Barrel",
+        "price": 2180,
+        "logoCart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-cart-64.png",
+        "logoHeart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-heart-64.png" 
+    },
+
+    {
+        "id": 2,
+        "imageUrl": "https://th.bing.com/th/id/OIP.prvGc6lXxA7i-4JiOQkyugHaHa?pid=ImgDet&w=207&h=207&c=7&dpr=1.3",
+        "title": "Рюкзак Arcteryx Miura",
+        "price": 1840,
+        "logoCart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-cart-64.png",
+        "logoHeart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-heart-64.png" 
+    },
+
+    {
+        "id": 3,
+        "imageUrl": "https://th.bing.com/th/id/OIP.sTAekY-spQjTGAq91pFzlgHaHa?pid=ImgDet&w=207&h=207&c=7&dpr=1.3",
+        "title": "Рюкзак Buy Caribee",
+        "price": 2990,
+        "logoCart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-cart-64.png",
+        "logoHeart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-heart-64.png" 
+    }
+
+]

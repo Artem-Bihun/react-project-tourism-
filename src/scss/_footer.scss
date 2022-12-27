@@ -1,0 +1,94 @@
+.footer {
+    display: flex;
+    width: 1500px;
+    margin: 0 auto;
+    background-color:antiquewhite;
+    
+    li {
+        list-style: none;
+        padding-bottom: 3px;
+    }
+    li:hover {
+        cursor: default;
+        color: rgb(151, 149, 149);
+    }
+}
+
+.header-image {
+    font-family: 'Dancing Script', cursive;
+    margin-top: 15px;
+    margin-left: 120px;
+    text-align: center;
+    width: 400px;
+    h1 {
+        margin-top: 0px;
+    }
+    h4 {
+        font-weight: 100;
+    }
+}
+
+.we { 
+    width: 400px;
+    text-align: center;
+    margin-top: 30px;
+    
+    img {
+        margin: 5px 0px 0px 5px;
+    }
+    
+    img:hover {
+        background-color: grey;
+        border-radius: 50%;
+    }
+
+    h4 {
+        margin-bottom: 10px;
+    }
+}
+
+
+.catalogue {
+    width: 400px;
+    text-align: center;
+    margin-top: 30px;
+
+    img {
+        margin-right: 3px;
+    }
+ 
+    h4 {
+        margin-bottom: 10px;
+    }
+}
+
+.heart-wishes {
+    display: flex;
+    margin-left: 130px;
+}
+
+.tent-signIn {
+    display: flex;
+    margin-left: 94px;
+}
+
+
+
+.marg-bott {
+       margin-bottom: 115px;
+}
+
+.empty {
+    background-color: rgb(47, 47, 47);
+    padding: 2px;
+    width: 300px;
+    margin-left: 50px;
+}
+
+.empty-two {
+    background-color: rgb(47, 47, 47);
+    padding: 2px;
+    width: 300px;
+    margin-top: 8px;
+    margin-left: 50px;
+}

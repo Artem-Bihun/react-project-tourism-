@@ -1,0 +1,21 @@
+.text {
+    max-width: 1500px;
+    margin: 0 auto;
+    background-color: rgb(47, 47, 47);
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 100;  
+    font-size: 18px;
+    letter-spacing: 1px;
+    color: white;
+    text-align: justify;
+    padding: 10px 0px;
+    text-indent: 20px;
+
+    h3 {
+        margin-left: 50px;
+    }
+
+    p {
+        padding: 0px 50px;
+    }
+}

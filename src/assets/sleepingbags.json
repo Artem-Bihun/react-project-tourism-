@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "imageUrl": "https://th.bing.com/th/id/OIP.cgksJxLSor-8zMXrmz0SXQHaHa?pid=ImgDet&w=207&h=207&c=7&dpr=1.3",
+        "title": "Nordisc Selma",
+        "price": 2100,
+        "logoCart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-cart-64.png",
+        "logoHeart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-heart-64.png" 
+    },
+
+    {
+        "id": 1,
+        "imageUrl": "https://th.bing.com/th/id/OIP.CZKhnlKIsBGIKBbKoAsZQwHaHa?pid=ImgDet&w=207&h=207&c=7&dpr=1.3",
+        "title": "Vango Latitude",
+        "price": 1950,
+        "logoCart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-cart-64.png",
+        "logoHeart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-heart-64.png" 
+    },
+
+    {
+        "id": 2,
+        "imageUrl": "https://th.bing.com/th/id/OIP.1XORrvyuXoW5pVZipMb9MgHaHa?pid=ImgDet&w=207&h=207&c=7&dpr=1.3",
+        "title": "Loftra Explorer",
+        "price": 2300,
+        "logoCart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-cart-64.png",
+        "logoHeart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-heart-64.png" 
+    },
+
+    {
+        "id": 3,
+        "imageUrl": "https://th.bing.com/th/id/OIP.07WyEbZFYiEYu4215wjbJwHaHa?pid=ImgDet&w=207&h=207&c=7&dpr=1.3",
+        "title": "Grizzly",
+        "price": 2590,
+        "logoCart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-cart-64.png",
+        "logoHeart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-heart-64.png" 
+    }
+
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "imageUrl": "https://th.bing.com/th/id/OIP.yLvduAuFDSSckaNTt-YiQgHaHa?w=194&h=194&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "title": "Жидкость для розжига Hot Pot",
+        "price": 270,
+        "logoCart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-cart-64.png",
+        "logoHeart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-heart-64.png" 
+    },
+
+    {
+        "id": 1,
+        "imageUrl": "https://th.bing.com/th/id/OIP.2JFYYKgwOgLfK_64sByD7gHaHa?w=209&h=209&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "title": "Гель для розжига Mistery",
+        "price": 320,
+        "logoCart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-cart-64.png",
+        "logoHeart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-heart-64.png" 
+    },
+
+    {
+        "id": 2,
+        "imageUrl": "https://th.bing.com/th/id/OIP.33fIIhAc612qelUuB2b6UQHaHa?w=192&h=192&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "title": "Брекеты для розжига Grifon",
+        "price": 400,
+        "logoCart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-cart-64.png",
+        "logoHeart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-heart-64.png" 
+    },
+
+    {
+        "id": 3,
+        "imageUrl": "https://th.bing.com/th/id/OIP.NAS7U-UH8pn5wmNhFcF6RAHaHa?w=175&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "title": "Лучина для розжига",
+        "price": 350,
+        "logoCart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-cart-64.png",
+        "logoHeart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-heart-64.png" 
+    }
+  
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "imageUrl": "https://th.bing.com/th/id/OIP.l1TvrQnF8zkBxU0oDg88AAHaHa?pid=ImgDet&w=207&h=207&c=7&dpr=1.3",
+        "title": "Набор Pic-Trv",
+        "price": 500,
+        "logoCart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-cart-64.png",
+        "logoHeart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-heart-64.png" 
+    },
+
+    {
+        "id": 1,
+        "imageUrl": "https://th.bing.com/th/id/OIP.SRXe3M73_R50vXxDuZI6VwAAAA?pid=ImgDet&w=207&h=207&c=7&dpr=1.3",
+        "title": "Котелок Hotrod",
+        "price": 1810,
+        "logoCart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-cart-64.png",
+        "logoHeart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-heart-64.png" 
+    },
+
+    {
+        "id": 2,
+        "imageUrl": "https://th.bing.com/th/id/OIP.yOPaC3jzeRV3Oi4i2a52dwHaHa?pid=ImgDet&w=207&h=207&c=7&dpr=1.3",
+        "title": "Кружка Toaks",
+        "price": 340,
+        "logoCart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-cart-64.png",
+        "logoHeart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-heart-64.png" 
+    },
+
+    {
+        "id": 3,
+        "imageUrl": "https://th.bing.com/th/id/OIP.Mit08gNqMyczCrimFlOzzQHaHa?pid=ImgDet&w=207&h=207&c=7&dpr=1.3",
+        "title": "Термос Zojirushi",
+        "price": 1690,
+        "logoCart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-cart-64.png",
+        "logoHeart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-heart-64.png" 
+    }
+
+]

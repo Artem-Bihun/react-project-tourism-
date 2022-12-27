@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "imageUrl": "https://th.bing.com/th/id/OIP.DSD0zP9Jh8rzHDxNgGhBWAHaHa?pid=ImgDet&w=207&h=207&c=7&dpr=1.3",
+        "title": "Зонт London Whangee",
+        "price": 700,
+        "logoCart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-cart-64.png",
+        "logoHeart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-heart-64.png" 
+    },
+
+    {
+        "id": 1,
+        "imageUrl": "https://th.bing.com/th/id/OIP.JtCf_C4uHmFB7TL8WAfhswHaHa?pid=ImgDet&w=207&h=207&c=7&dpr=1.3",
+        "title": "Зонт Cuarda-Chuva",
+        "price": 920,
+        "logoCart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-cart-64.png",
+        "logoHeart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-heart-64.png" 
+    },
+
+    {
+        "id": 2,
+        "imageUrl": "https://th.bing.com/th/id/OIP.3dOdU3tCehHfeOKGRd64CwHaHa?pid=ImgDet&w=207&h=207&c=7&dpr=1.3",
+        "title": "Дождевик Oliver",
+        "price": 1100,
+        "logoCart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-cart-64.png",
+        "logoHeart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-heart-64.png" 
+    },
+
+    {
+        "id": 3,
+        "imageUrl": "https://th.bing.com/th/id/OIP.kKmHcbEKzuxIccBPP7GwqgHaHa?pid=ImgDet&w=207&h=207&c=7&dpr=1.3",
+        "title": "Дождевик Helly Hansen",
+        "price": 1350,
+        "logoCart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-cart-64.png",
+        "logoHeart": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-heart-64.png" 
+    }
+  
+]

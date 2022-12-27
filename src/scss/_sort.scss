@@ -1,0 +1,58 @@
+.sort {
+    color: white;
+    position: absolute;
+    left: 1300px;
+    top: 322px;
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 100;  
+    font-size: 18px;
+    letter-spacing: 1px;
+    font-style: italic;
+    &:hover {
+        cursor: context-menu;
+        color: rgb(171, 171, 171);
+    }
+
+    .down-arrow {
+        position: relative;
+        top: 6.5px;
+
+    }    
+    .down-arrow:hover {
+        background-color: rgb(171, 171, 171);
+        border-radius: 30%;
+    }
+}
+
+
+.active-sort {
+    border-bottom: 1px solid rgb(171, 171, 171);
+    color: rgb(171, 171, 171);
+  }
+
+
+
+.sort-list {
+    background-color: rgba(54, 54, 54, 0.8);
+    color: white;
+    width: 280px;
+    text-align: center;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    position: absolute;
+    left: 1229.5px;
+    top: 346px;
+    padding: 10px 0px;
+
+    li {
+        list-style: none;
+        padding: 3px 0px;
+        font-style: italic;
+
+    }
+    li:hover {
+        cursor: default;
+        color: rgb(171, 171, 171);
+    }
+}
+
