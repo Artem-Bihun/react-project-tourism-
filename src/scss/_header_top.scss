@@ -1,112 +1,106 @@
 .header-top {
   max-width: 1500px;
   margin: 0 auto;
-  display: flex; 
-  color:white;
-  background-color: rgb(58, 58, 58);
+  display: flex;
+  background-color:rgb(54, 54, 54);
+  color: white;
   font-family: 'Cormorant Garamond', serif;
-  font-weight: 100;
-  font-size: 18px;
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 1px;
 }
 
-.company {
+.about-company {
   display: flex;
-  list-style: none;
-    li {
-      margin-left: 10px;
-      padding: 5px;
-      text-align: center;
-    }
-    :hover {
-      cursor: context-menu;
-      font-weight: 400;
-      border-bottom: 1px solid white;
-    }
-}
 
-.social-media {
-  display: flex;
-  list-style: none;
-  img {
-    height: 25px;
-    padding: 2px;
-    margin-top: 10px;
+  li {
+    margin-left: 20px;
+    list-style: none;
   }
-  img:hover {
-    background-color: rgb(198, 196, 196);
-    border-radius: 20%;
-}
+  
+  li:hover {
+    cursor: default;
+    color: grey;
+  }
 }
 
 .languages {
-    display: flex;
-    list-style: none;
-    margin-right: 25px;
+  display: flex;
+  list-style: none;
+  margin-top: 35px;
 
   li {
-      padding: 5px;
-      margin-top: 10px;
-    }
-    :hover {
-      cursor: default;
-      font-weight: 400;
-      color: black;
-    }
+    margin-right: 10px;
+  }
+
+  li:hover {
+    cursor: default;
+    color: black;
+  }
 }
+
   
-.wishes-login {
+.wishes-signIn {
     display: flex;
     list-style: none;
-    padding: 5px;
-    text-align: center;
 
-    :hover {
-      cursor: context-menu;
-      font-weight: 500;
+    img {
+      padding: 3px;
     }
+}
 
-    .wishes {
-      padding: 3px;
-      img {
-        padding-right: 5px;
-      }
+.logo-heart {
+  display: flex;
+  margin-right: 30px;
+
+  li {
+    width: 70px;
+  }
+}
+
+.logo-tent {
+  display: flex;
+  margin-right: 40px;
+
+    li {
+      width: 140px;
     }
-    .login {
-      padding: 3px;
-      img {
-        padding-right: 5px;
+}
+
+.logo-heart:hover {
+
+      li {
+        cursor: default;
+        color: antiquewhite;
       }
-    }
+
+      img {
+        background-color: antiquewhite;
+        border-radius: 50%;
+      }
+}
+  
+.logo-tent:hover {
+
+      li {
+        cursor: default;
+        color: antiquewhite;
+      }
+
+      img {
+        background-color: antiquewhite;
+        border-radius: 50%;
+      }
 }
 
 
 
-//   // border-bottom: 1px solid $gray-line;
-//   padding: 40px 0;
 
-//   .container {
-//     display: flex;
-//     align-items: center;
-//     justify-content: space-between;
-//   }
 
-//   &__logo {
-//     display: flex;
 
-//     img {
-//       margin-right: 15px;
-//     }
 
-//     h1 {
-//       color: #181818;
-//       font-size: 24px;
-//       letter-spacing: 1%;
-//       text-transform: uppercase;
-//       font-weight: 800;
-//     }
 
-//     p {
-//       color: #7b7b7b;
-//     }
-//   }
-// }
+ 
+
+
+
