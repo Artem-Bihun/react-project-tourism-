@@ -1,6 +1,6 @@
 import React from 'react';
 
-import arrayHome from '../../assets/home.json';
+import arrayHome from '../assets/home.json';
 
 const Home = () => {
 

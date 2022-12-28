@@ -1,5 +1,6 @@
-import objLogos from '../assets/logos.json';
 
+
+import objLogos from '../assets/logos.json';
 import '../scss/_header_top.scss';
 
 function HeaderTop() {

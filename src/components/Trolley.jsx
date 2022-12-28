@@ -1,7 +1,7 @@
 import React from 'react';
-import objLogos from '../../assets/logos.json';
+import objLogos from '../assets/logos.json';
 
-import '../../scss/_trolley.scss';
+import '../scss/_trolley.scss';
 
 const Trolley = () => {
   const [openTrolley, setOpenTrolley] = React.useState(false);

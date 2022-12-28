@@ -1,9 +1,10 @@
 import React from 'react';
-import objLogos from '../assets/logos.json';
+import { Link } from 'react-router-dom';
 
 import imgExpedition from '../assets/img_expedition.png';
+import objLogos from '../assets/logos.json';
+
 import '../scss/_header_middle.scss';
-import { Link } from 'react-router-dom';
 
 const HeaderMiddle = () => {
   return (
